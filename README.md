@@ -6,7 +6,7 @@ A Machine Learning-based web application that classifies SMS messages as **Spam*
 
 The SMS Spam Classifier helps identify unwanted or promotional messages. Users can enter an SMS message into the application and receive a prediction about whether it is spam or legitimate.
 
-![SMS Spam Classifier Demo](spam-classifier-demo.png)
+![SMS Spam Classifier Demo](spam-classifier-demo.png.png)
 
 ## Features
 
